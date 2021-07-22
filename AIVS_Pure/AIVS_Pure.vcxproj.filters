@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\fileProcess">
+      <UniqueIdentifier>{ebf0fba5-c634-4f4c-9c37-d0c837f06b29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{f5213cd0-a1da-4b37-9378-ec8b7b24921c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\pointcloud">
+      <UniqueIdentifier>{b58cef6c-d29d-4d59-a219-1b2eeb183a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\SimAIVS">
+      <UniqueIdentifier>{26fd2c4a-afc2-4d87-9186-8d21bff5f757}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlyLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trackball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileProcess\CBrowseDir.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileProcess\LoadFileDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GLM\glm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="trackball.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileProcess\CBrowseDir.h">
+      <Filter>Header Files\fileProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="FileProcess\CStatDir.hpp">
+      <Filter>Header Files\fileProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="FileProcess\LoadFileDlg.h">
+      <Filter>Header Files\fileProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="PlyLoad.h">
+      <Filter>Header Files\fileProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="GLM\glm.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="GLM\glmVector.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="ballRegionCompute.hpp">
+      <Filter>Header Files\pointcloud</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadPointCloud.hpp">
+      <Filter>Header Files\pointcloud</Filter>
+    </ClInclude>
+    <ClInclude Include="normalCompute.hpp">
+      <Filter>Header Files\pointcloud</Filter>
+    </ClInclude>
+    <ClInclude Include="pointProcessPipeline.hpp">
+      <Filter>Header Files\pointcloud</Filter>
+    </ClInclude>
+    <ClInclude Include="Method_AIVS_OM.hpp">
+      <Filter>Header Files\SimAIVS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
