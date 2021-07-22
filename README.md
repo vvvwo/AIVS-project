@@ -12,7 +12,7 @@ Using the run.cmd to implement the ".exe"
 
 Additional Files：
 
-We add a new pure project and related exe files into the repository.
+We add a new pure project "AIVS_Pure" and related "EXE" files into the repository.
 
 2020/04/28
 
