@@ -1,12 +1,16 @@
 # AIVS: a Point-Cloud-Simplification-Project
 
-Title: Approximate Intrinsic Voxel Structure for Point Cloud Simplification
+The files in "EXE" can be used to simplified the point cloud directly.
+
+Project Title: Approximate Intrinsic Voxel Structure for Point Cloud Simplification
+
+Update Infor
 
 2021/07/22
 
 Additional Files：
 
-We add a new pure project into the repository.
+We add a new pure project and related exe files into the repository.
 
 2020/04/28
 
