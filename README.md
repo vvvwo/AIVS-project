@@ -2,7 +2,7 @@
 
 ## EXE
 
-The files in "EXE" can be used to simplified the point cloud directly.
+The files in "EXE" can be used to simplified an input point cloud directly.
 
 Using the run.cmd to implement the ".exe"
 
