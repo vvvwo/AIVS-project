@@ -1,0 +1,1 @@
+AIVS_Pure.exe Bunny.obj 10000 Bunny_Sim.obj

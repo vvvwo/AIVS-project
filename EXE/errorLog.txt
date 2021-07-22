@@ -1,0 +1,2 @@
+The input simplification point number is larger than original point cloud!
+
