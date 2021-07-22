@@ -1,5 +1,7 @@
 # AIVS: a Point-Cloud-Simplification-Project
 
+![image](https://user-images.githubusercontent.com/65271555/126601707-f524610e-0312-48a0-99d8-6ce322256897.png)
+
 ## EXE
 
 The files in "EXE" can be used to simplified an input point cloud directly.
