@@ -1,8 +1,12 @@
-# AIVS: a Point-Cloud-Simplification-Project
+# Approximate Intrinsic Voxel Structure for Point Cloud Simplification
 
-![image](https://user-images.githubusercontent.com/65271555/126601787-7bee5bd0-7aa7-4b97-b60b-6c3e4961663f.png)
+![image](https://user-images.githubusercontent.com/65271555/128493751-143bf8e5-3223-4fc6-ac30-24e3dddeed54.png)
 
 Personal Website: https://aliexken.github.io/
+
+## Abstract
+
+A point cloud as an information-intensive 3D representation usually requires a large amount of transmission, storage and computing resources, which seriously hinder its usage in many emerging fields. In this paper, we propose a novel point cloud simplification method, Approximate Intrinsic Voxel Structure (AIVS), to meet the diverse demands in real-world application scenarios. The method includes point cloud pre-processing (denoising and down-sampling), AIVS-based realization for isotropic simplification and flexible simplification with intrinsic control of point distance. To demonstrate the effectiveness of the proposed AIVS-based method, we conducted extensive experiments by comparing it with several relevant point cloud simplification methods on three public datasets, including Stanford, SHREC, and RGB-D scene models. The experimental results indicate that AIVS has great advantages over peers in terms of moving least squares (MLS) surface approximation quality, curvature-sensitive sampling, sharp-feature keeping and processing speed.
 
 ## EXE
 
