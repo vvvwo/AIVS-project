@@ -1,4 +1,5 @@
-# Approximate Intrinsic Voxel Structure for Point Cloud Simplification
+# Approximate Intrinsic Voxel Structure for 
+# Point Cloud Simplification
 
 ![image](https://user-images.githubusercontent.com/65271555/126601787-7bee5bd0-7aa7-4b97-b60b-6c3e4961663f.png)
 
