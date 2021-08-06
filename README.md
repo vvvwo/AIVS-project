@@ -1,6 +1,6 @@
 # Approximate Intrinsic Voxel Structure for Point Cloud Simplification
 
-![image](https://user-images.githubusercontent.com/65271555/128493751-143bf8e5-3223-4fc6-ac30-24e3dddeed54.png)
+![image](https://user-images.githubusercontent.com/65271555/128493952-cc959564-83af-4a49-8619-58a5466e7389.png)
 
 Personal Website: https://aliexken.github.io/
 
