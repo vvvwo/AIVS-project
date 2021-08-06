@@ -2,9 +2,9 @@
 
 Created by Chenlei Lv from Nanyang Technological University.
 
-![image](https://user-images.githubusercontent.com/65271555/128493952-cc959564-83af-4a49-8619-58a5466e7389.png)
-
 Personal Website: https://aliexken.github.io/
+
+![image](https://user-images.githubusercontent.com/65271555/128493952-cc959564-83af-4a49-8619-58a5466e7389.png)
 
 ## Abstract
 
