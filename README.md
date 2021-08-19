@@ -1,6 +1,6 @@
 # Approximate Intrinsic Voxel Structure for Point Cloud Simplification
 
-This project is related to the paper: Lv C, Lin W, Zhao B. Approximate Intrinsic Voxel Structure for Point Cloud Simplification[J]. IEEE Transactions on Image Processing, 2021.
+This project is related to the paper: Lv C, Lin W, Zhao B. Approximate Intrinsic Voxel Structure for Point Cloud Simplification[J]. IEEE Transactions on Image Processing, 2021, DOI: 10.1109/TIP.2021.3104174.
 
 Created by Chenlei Lv from Nanyang Technological University.
 
